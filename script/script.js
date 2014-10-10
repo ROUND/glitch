@@ -20,7 +20,7 @@ html2canvas(document.body, {
 		var image_data_1 = ctx_1.getImageData(0, 0, canvas_width, canvas_height);
 
 		// Glitch the image data (passing drawImageDataInCanvasTwo as a callback function)
-		var parameters = { amount: 5, seed: 30, iterations: 10, quality: 20 };
+		var parameters = { amount: 1, seed: 15, iterations: 3, quality: 20 };
 		glitch( image_data_1, parameters, drawImageDataInCanvasTwo );
 
 		// Put the glitched image data on canvas two
