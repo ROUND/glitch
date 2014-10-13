@@ -1,5 +1,6 @@
-# Glitch HTML elements (including webfonts).
+#Techniques for glitching HTML elements
 
-##[Demo](http://rawgit.com/DUQE/glitch/master/index.html)
+##[Canvas Demo](http://rawgit.com/DUQE/glitch/master/canvas.html)
+##[CSS Demo](http://rawgit.com/DUQE/glitch/master/canvas.html)
 
-Gratefully relies on [html2canvas](http://github.com/niklasvh/html2canvas) and [glitch-canvas](http://github.com/snorpey/glitch-canvas).
+Gratefully relies on [html2canvas](http://github.com/niklasvh/html2canvas) and [glitch-canvas](http://github.com/snorpey/glitch-canvas) and WebKit.
